@@ -84,14 +84,15 @@ Follow these steps to run the project locally:
 ### After Successful runing You can see the User page
     http://localhost:3000/users  
 
+You can see the Screenshot of Users Page
 <p align="center">
-  <img src="./users.png" alt="Dashboard Screenshot" title="RBAC Dashboard" width="500">
+  <img src="./users.png" alt="user Screenshot" title="user" width="500">
 </p>
 
 ### And the Roles Page
     http://localhost:3000/roles
 
-You can see the Screenshots
+You can see the Screenshot of Role Page
 <p align="center">
-  <img src="./role.png" alt="Dashboard Screenshot" title="RBAC Dashboard" width="500">
+  <img src="./role.png" alt="role Screenshot" title="role" width="500">
 </p>
