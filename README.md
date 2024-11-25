@@ -66,3 +66,11 @@ Follow these steps to run the project locally:
    ```bash
    git clone https://github.com/your-username/rbac-ui.git
    cd rbac-ui
+
+2. Install all dependencies:
+   ```bash
+   npm install
+
+3. Start the development server:
+   ```bash
+   npm run dev
