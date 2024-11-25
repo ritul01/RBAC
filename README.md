@@ -81,9 +81,7 @@ Follow these steps to run the project locally:
 
 # After Successful runing You can see the User page
     ```arduino
-    http://localhost:3000/users
-
-
+    http://localhost:3000/users  
 
     You can see the Screenshot here:
     ![image](./imag.png)
