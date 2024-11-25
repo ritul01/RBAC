@@ -74,3 +74,14 @@ Follow these steps to run the project locally:
 3. Start the development server:
    ```bash
    npm run dev
+
+4. Open the application in your browser at:
+   ```arduino
+   http://localhost:3000
+
+# After Successful runing You can see the User page
+    ```arduino
+    http://localhost:3000/users
+
+    You can see the Screenshot here:
+    ![image](./imag.png)
