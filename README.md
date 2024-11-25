@@ -79,13 +79,8 @@ Follow these steps to run the project locally:
    ```arduino
    http://localhost:3000
 
-# After Successful runing You can see the User page
+---
+
+### After Successful runing You can see the User page
     ```arduino
     http://localhost:3000/users  
-
-<br>
-
-    You can see the Screenshot here:
-    <p align="center">
-        <img src="./imag.png" alt="Dashboard Screenshot" title="RBAC Dashboard" width="500">
-    </p>
