@@ -50,3 +50,32 @@ Key features include:
 ---
 
 ## **Project Structure**
+
+rbac-ui/
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+├── src/
+│   ├── components/       # Reusable components
+│   │   ├── Table.js      # Generic Table component
+│   │   ├── Modal.js      # Generic Modal component
+│   │   └── FormInput.js  # Generic Form Input component
+│   ├── mock-data/        # Store mock data
+│   │   ├── users.js      # Mock user data
+│   │   └── roles.js      # Mock role data
+│   ├── pages/            # Application pages
+│   │   ├── Users.js      # Users management page
+│   │   ├── Roles.js      # Roles management page
+│   │   └── Permissions.js # Permissions management page
+│   ├── styles/           # Global styles
+│   │   └── index.css     # Tailwind CSS entry file
+│   ├── utils/            # Utility functions
+│   ├── App.js            # Main App component
+│   ├── Routes.js         # Routing configuration
+│   ├── index.js          # React entry file
+│   ├── tailwind.config.js# Tailwind configuration
+│   └── reportWebVitals.js# Performance measurement
+├── .gitignore
+├── package.json
+├── README.md
+└── tailwind.config.js
